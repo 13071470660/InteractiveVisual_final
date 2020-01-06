@@ -1,13 +1,10 @@
 ## 主题
 从博物馆、演出的数据入手分析中国各省的文化与GDP、旅游业之间的关系
-## 所需数据
-- 中国各省博物馆数（2010-2018）
-- 中国各省博物馆名单（2018）
-- 中国各省GDP排名（2010-2018）
-- 中国各省接待入境过夜游客数量（2018）
-## 初步想法
-- 博物馆是征集、典藏、陈列和研究代表自然和人类文化遗产的实物的场所，一定程度上象征了城市的文化，各省的博物馆数与GDP对比分析，可得出：经济大省集中了较多的文化资源，经济大省一定是文化大省，但文化大省不一定是经济大省
-- 从各省接待入境过夜游客数量来看，拥有博物馆数多的省份游客数不一定多，可推断博物馆对于旅游业的助长力量较小。
-- 在中国各省博物馆数地图上的交互：点击相应区域，返回该省博物馆名单。
-### 初步简略尝试
-[各省的博物馆数与GDP对比分析](http://nfunm033.gitee.io/gediqubowuguan/)
+## 数据集
+来自国家数据：
+- [中国各省博物馆数](https://github.com/13071470660/InteractiveVisual_final/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86%E6%9C%BA%E6%9E%84%E6%95%B0(%E4%B8%AA).csv)
+- [中国各省GDP排名](https://github.com/13071470660/InteractiveVisual_final/blob/master/%E5%9C%B0%E5%8C%BA%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC%E5%88%86%E7%9C%81%E5%B9%B4%E5%BA%A6%E6%95%B0%E6%8D%AE.csv)
+- [中国各省接待外国入境过夜游客数量](https://github.com/13071470660/InteractiveVisual_final/blob/master/%E6%8E%A5%E5%BE%85%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%EF%BC%88%E7%99%BE%E4%B8%87%E4%BA%BA%E6%AC%A1%EF%BC%89.csv)
+来自国家文物局：
+- [中国各省博物馆名单](https://github.com/13071470660/InteractiveVisual_final/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%8D%95.csv)
+## [代码运行详情及数据故事](http://nfunm033.gitee.io/keshi/)
